@@ -22,9 +22,10 @@
 
 #### 📫 联系
 
-- Email: your_email@example.com
+- Email: jiamaozou@gmail.com
 
 #### 我的记录
-目前新开了两个仓库:
-- [减肥日记](https://github.com/maoemao/weight_loss_diary) - 这个主要是为了记录之前自己看了一些书和 YouTuber 的观点进行整合一些技巧，后面也可能会同步一些减肥记录
-- [生活记录](https://github.com/maoemao/diary) - 主要是几率自己的一些日常事情和一些感悟，后面会持续更新，希望自己能坚持下去
+我的一些仓库:
+- [AI工作流笔记](https://github.com/maoemao/ai_work_flow) - 这个主要是为了记录我自己用的AI工程流以及相关的知识
+- [全栈计划](https://github.com/maoemao/full_stack_plan) - 得益和借力于AI，我打算了解一些后端知识，做一名全栈工程师
+- [简单HR系统](https://github.com/maoemao/hr_sys) - 这个主要是为了了解后端开辟的仓库，用next.js + antd 开发
