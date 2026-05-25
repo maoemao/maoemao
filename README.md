@@ -1,18 +1,28 @@
-### 大家好 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-欢迎来到我的主页，这里我会分享一些日常生活和技术相关 :rofl:
+### Hi 👋 我是 [Tony],你也可以叫我[猫哥]
 
-- 🔭 &nbsp;我现在正在减肥，有减肥的道友可以一起相互鼓励，减肥的主要方式是跳绳加合理饮食，偶尔会打篮球
-- 🌱 &nbsp;目前正在努力学习英语，每天花一个小时听听力和背单词
-- 💬 &nbsp;我的技术栈 做过几年iOS，两年flutter，目前做 Web 前端主要是用Vue和React，也维护公司的移动端。
-- 👨‍💻 &nbsp;偶尔会玩游戏，主要是任天堂的游戏，喜欢看 dota比赛
-- ⚡ &nbsp;不喜欢社交，不喜欢网络发言，喜欢逛 Twitter 和 YouTube
-- 💰 &nbsp;在币圈，目前没钱做投资，以后有钱会买 BTC 和 ETH 现货
-- 🏫 &nbsp;国内 211 本科毕业
+一名前端工程师，主做 App 和 Web 开发，正在 AI 编码时代向全栈方向演进。
 
+#### 🛠️ 技术栈
 
-### ✨&nbsp; 关于我自己
+- **移动端**：Flutter / Swift / Objective-C
+- **前端**：JavaScript / TypeScript / React / Vue / Next.js
+- **全栈方向**：Node.js / PostgreSQL / Drizzle / Prisma
+- **AI 协作**：Cursor / Claude / MCP / Spec-driven Development
 
-菜鸡程序员一枚，基本也没做什么开源项目，所以这里纯当一个生活记录，希望自己能坚持
+#### 🎯 正在做
+
+- 用 Next.js 做全栈练手项目（已完成 2 个 Demo）
+- 学习服务端架构、数据库与系统设计
+- 探索 AI 编码工作流的最佳实践
+
+#### 💡 一些想法
+
+> AI 时代，判断力比代码量更值钱。
+> 做 AI 的协作者，而不是被替代者。
+
+#### 📫 联系
+
+- Email: your_email@example.com
 
 #### 我的记录
 目前新开了两个仓库:
