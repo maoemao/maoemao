@@ -7,7 +7,7 @@
 - **移动端**：Flutter / Swift / Objective-C
 - **前端**：JavaScript / TypeScript / React / Vue / Next.js
 - **全栈方向**：Node.js / PostgreSQL / Drizzle / Prisma
-- **AI 协作**：Cursor / Claude / MCP / Spec-driven Development
+- **AI 协作**：Cursor / Claude / MCP / Spec-driven Development / Supperpowers
 
 #### 🎯 正在做
 
