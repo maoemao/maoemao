@@ -26,6 +26,9 @@
 
 #### 我的记录
 我的一些仓库:
+- [Portal系统](https://github.com/maoemao/my_portal) - 提供应用入口，统一token管理，采用nextjs前后端一体，qunkun架构
+- [大模型网关系统](https://github.com/maoemao/llm_gateway) - 探究一下外面提供各种大模型的系统如何实现
+- [审批系统后台](https://github.com/maoemao/bmp_backend) - 这个目前是简单实现一下审批流后台如何实现，可以优化，做成用户可以自定义管理模型
 - [从0实现一个小龙虾](https://github.com/maoemao/chat_agent) - 如何从0实现一个小龙虾，暂时只接入telegram，保留接入其他平台的入口，做了分层设计
 - [AI工作流笔记](https://github.com/maoemao/ai_work_flow) - 这个主要是为了记录我自己用的AI工程流以及相关的知识
 - [全栈计划](https://github.com/maoemao/full_stack_plan) - 得益和借力于AI，我打算了解一些后端知识，做一名全栈工程师
